@@ -6,6 +6,11 @@ p{
     font-size: large;
 }
 
-.card-footer{
-    background-color: gray;
+#footer{
+    background-color: rgb(110, 109, 109);
+}
+
+#formulario{
+    color: white;
+    text-decoration: none;
 }
