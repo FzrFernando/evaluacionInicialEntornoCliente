@@ -1,7 +1,3 @@
-#titulo{
-    color: red;
-}
-
 p{
     font-size: large;
 }
@@ -13,4 +9,17 @@ p{
 #formulario{
     color: white;
     text-decoration: none;
+}
+
+#colornavbar{
+    background-color: rgb(206, 206, 206);
+}
+
+#navbar{
+    background-color: rgb(206, 206, 206);
+    color: black;
+}
+
+#titulo{
+    color: red;
 }
